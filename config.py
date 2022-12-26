@@ -1,5 +1,3 @@
-# TOKEN = '5578374867:AAHAbT6f5ptNEOYByhsjn7cwr7yq9mu6pM8'
-
 keys = {
     'доллар': 'USD',
     'канадскийдоллар': 'CAD',
