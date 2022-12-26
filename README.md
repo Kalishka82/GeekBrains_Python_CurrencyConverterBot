@@ -1,4 +1,4 @@
-# QAP_Currency Converter Bot
+# Currency Converter Bot
 
 @My_CurrencyConverter_Bot - телеграм-бот для конвертации валют.
 
